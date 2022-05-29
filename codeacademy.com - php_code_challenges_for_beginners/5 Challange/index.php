@@ -10,9 +10,12 @@
     </tr>
     <?php
     for($i = 1; $i <=12 ; $i++){
-
+        echo "<tr>";
+        for ($j = 1 ; $j<=2;$j++){
+            echo "<td>".$i *$j."</td>" ;
+        }
+        echo "</tr>";
     }
-    echo "<td>{$i}</td>";
     ?>
 </table>
 
