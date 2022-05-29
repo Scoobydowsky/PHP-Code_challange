@@ -1,6 +1,6 @@
 <html lang="en">
 <head>
-    <title>1st Challange from www.codeacademy.com</title>
+    <title>2nd Challange from www.codeacademy.com</title>
 </head>
 <body>
 <?php
